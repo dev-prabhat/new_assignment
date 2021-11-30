@@ -8,3 +8,9 @@
   align-items: center;
   justify-content: space-evenly;
 }
+.menuitem {
+  display: flex;
+  flex-direction: row;
+  margin: 0 20px;
+  justify-content: space-around;
+}
